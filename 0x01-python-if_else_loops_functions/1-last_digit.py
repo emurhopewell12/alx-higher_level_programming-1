@@ -6,7 +6,7 @@ if number < 0:
 else:
     ldigit = number % 10
 
-print(f"Last digit 0f {number:d} is {ldigit:d} and is", end=" ")
+print(f"Last digit of {number:d} is {ldigit:d} and is", end=" ")
 
 if ldigit > 5:
     print("greater than 5")
