@@ -7,5 +7,4 @@ def uppercase(str):
             ch = c
 
         print("{:s}".format(ch), end="")
-    
     print('')
